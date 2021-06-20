@@ -17,6 +17,7 @@
             <title>superMapForOpenlayer</title>
             <link>http://eexq.cn/2021/06/19/superMapForOpenlayer/</link>
             <category term="supermap for openlayer" scheme="http://eexq.cn/categories/supermap-for-openlayer/" />
+            <category term="supermap source" scheme="http://eexq.cn/categories/supermap-for-openlayer/supermap-source/" />
             <category term="supermap for openlayer, supermap source" scheme="http://eexq.cn/tags/supermap-for-openlayer-supermap-source/" />
             <pubDate>Sat, 19 Jun 2021 14:40:20 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt; supermap source &lt;/span&gt;&lt;/p&gt;
@@ -30,6 +31,8 @@
             <title>openLayer</title>
             <link>http://eexq.cn/2021/06/18/openLayer/</link>
             <category term="openlayers" scheme="http://eexq.cn/categories/openlayers/" />
+            <category term="openlayers打点" scheme="http://eexq.cn/categories/openlayers/openlayers%E6%89%93%E7%82%B9/" />
+            <category term="PointerInteraction" scheme="http://eexq.cn/categories/openlayers/openlayers%E6%89%93%E7%82%B9/PointerInteraction/" />
             <category term="openlayers打点 , PointerInteraction" scheme="http://eexq.cn/tags/openlayers%E6%89%93%E7%82%B9-PointerInteraction/" />
             <pubDate>Fri, 18 Jun 2021 20:28:03 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;PointerInteraction&lt;/span&gt;&lt;/p&gt;
@@ -41,6 +44,7 @@
             <title>flexible.js</title>
             <link>http://eexq.cn/2021/06/16/flexible-js/</link>
             <category term="javascript" scheme="http://eexq.cn/categories/javascript/" />
+            <category term="flexible.js源码" scheme="http://eexq.cn/categories/javascript/flexible-js%E6%BA%90%E7%A0%81/" />
             <category term="flexible.js源码" scheme="http://eexq.cn/tags/flexible-js%E6%BA%90%E7%A0%81/" />
             <pubDate>Wed, 16 Jun 2021 19:07:34 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;pc 端响应式 flexible 源码&lt;/span&gt;&lt;/p&gt;
@@ -50,6 +54,9 @@
             <guid isPermalink="true">http://eexq.cn/2021/06/15/Echart/</guid>
             <title>echart</title>
             <link>http://eexq.cn/2021/06/15/Echart/</link>
+            <category term="echart重绘" scheme="http://eexq.cn/categories/echart%E9%87%8D%E7%BB%98/" />
+            <category term="echart柱子渐变色" scheme="http://eexq.cn/categories/echart%E9%87%8D%E7%BB%98/echart%E6%9F%B1%E5%AD%90%E6%B8%90%E5%8F%98%E8%89%B2/" />
+            <category term="echart修改折线和折现点样式" scheme="http://eexq.cn/categories/echart%E9%87%8D%E7%BB%98/echart%E6%9F%B1%E5%AD%90%E6%B8%90%E5%8F%98%E8%89%B2/echart%E4%BF%AE%E6%94%B9%E6%8A%98%E7%BA%BF%E5%92%8C%E6%8A%98%E7%8E%B0%E7%82%B9%E6%A0%B7%E5%BC%8F/" />
             <category term="echart重绘, echart柱子渐变色,echart修改折线和折现点样式" scheme="http://eexq.cn/tags/echart%E9%87%8D%E7%BB%98-echart%E6%9F%B1%E5%AD%90%E6%B8%90%E5%8F%98%E8%89%B2-echart%E4%BF%AE%E6%94%B9%E6%8A%98%E7%BA%BF%E5%92%8C%E6%8A%98%E7%8E%B0%E7%82%B9%E6%A0%B7%E5%BC%8F/" />
             <pubDate>Tue, 15 Jun 2021 14:20:20 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;echart 整体引入&lt;/span&gt;&lt;/p&gt;
@@ -75,6 +82,12 @@
             <link>http://eexq.cn/2021/06/11/web/web-plug-in/</link>
             <category term="javascript" scheme="http://eexq.cn/categories/javascript/" />
             <category term="web-plug-in 插件" scheme="http://eexq.cn/categories/javascript/web-plug-in-%E6%8F%92%E4%BB%B6/" />
+            <category term="cssrem," scheme="http://eexq.cn/categories/javascript/web-plug-in-%E6%8F%92%E4%BB%B6/cssrem/" />
+            <category term="flexible.js" scheme="http://eexq.cn/categories/javascript/web-plug-in-%E6%8F%92%E4%BB%B6/cssrem/flexible-js/" />
+            <category term="jsencrypt.js 加密" scheme="http://eexq.cn/categories/javascript/web-plug-in-%E6%8F%92%E4%BB%B6/cssrem/flexible-js/jsencrypt-js-%E5%8A%A0%E5%AF%86/" />
+            <category term="NProgress.js 浏览器进度条" scheme="http://eexq.cn/categories/javascript/web-plug-in-%E6%8F%92%E4%BB%B6/cssrem/flexible-js/jsencrypt-js-%E5%8A%A0%E5%AF%86/NProgress-js-%E6%B5%8F%E8%A7%88%E5%99%A8%E8%BF%9B%E5%BA%A6%E6%9D%A1/" />
+            <category term="deepcopy.js 深拷贝" scheme="http://eexq.cn/categories/javascript/web-plug-in-%E6%8F%92%E4%BB%B6/cssrem/flexible-js/jsencrypt-js-%E5%8A%A0%E5%AF%86/NProgress-js-%E6%B5%8F%E8%A7%88%E5%99%A8%E8%BF%9B%E5%BA%A6%E6%9D%A1/deepcopy-js-%E6%B7%B1%E6%8B%B7%E8%B4%9D/" />
+            <category term="compression.js JS图片压缩技术" scheme="http://eexq.cn/categories/javascript/web-plug-in-%E6%8F%92%E4%BB%B6/cssrem/flexible-js/jsencrypt-js-%E5%8A%A0%E5%AF%86/NProgress-js-%E6%B5%8F%E8%A7%88%E5%99%A8%E8%BF%9B%E5%BA%A6%E6%9D%A1/deepcopy-js-%E6%B7%B1%E6%8B%B7%E8%B4%9D/compression-js-JS%E5%9B%BE%E7%89%87%E5%8E%8B%E7%BC%A9%E6%8A%80%E6%9C%AF/" />
             <category term="cssrem, flexible.js, jsencrypt.js 加密, NProgress.js 浏览器进度条, deepcopy.js 深拷贝, compression.js JS图片压缩技术" scheme="http://eexq.cn/tags/cssrem-flexible-js-jsencrypt-js-%E5%8A%A0%E5%AF%86-NProgress-js-%E6%B5%8F%E8%A7%88%E5%99%A8%E8%BF%9B%E5%BA%A6%E6%9D%A1-deepcopy-js-%E6%B7%B1%E6%8B%B7%E8%B4%9D-compression-js-JS%E5%9B%BE%E7%89%87%E5%8E%8B%E7%BC%A9%E6%8A%80%E6%9C%AF/" />
             <pubDate>Fri, 11 Jun 2021 00:15:35 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;cssrem&lt;/span&gt;&lt;/p&gt;
@@ -89,6 +102,7 @@
             <guid isPermalink="true">http://eexq.cn/2021/06/10/kettle/</guid>
             <title>kettle</title>
             <link>http://eexq.cn/2021/06/10/kettle/</link>
+            <category term="kettle配置" scheme="http://eexq.cn/categories/kettle%E9%85%8D%E7%BD%AE/" />
             <category term="kettle配置" scheme="http://eexq.cn/tags/kettle%E9%85%8D%E7%BD%AE/" />
             <pubDate>Thu, 10 Jun 2021 17:32:30 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;proxy 跨域基础配置&lt;/span&gt;&lt;/p&gt;
@@ -99,6 +113,23 @@
             <title>js Array Methods</title>
             <link>http://eexq.cn/2021/06/07/javascript/jsArray/</link>
             <category term="java script Array methods" scheme="http://eexq.cn/categories/java-script-Array-methods/" />
+            <category term="Array Methods" scheme="http://eexq.cn/categories/java-script-Array-methods/Array-Methods/" />
+            <category term="concat" scheme="http://eexq.cn/categories/java-script-Array-methods/Array-Methods/concat/" />
+            <category term="..." scheme="http://eexq.cn/categories/java-script-Array-methods/Array-Methods/concat/" />
+            <category term="slice" scheme="http://eexq.cn/categories/java-script-Array-methods/Array-Methods/concat/slice/" />
+            <category term="splice" scheme="http://eexq.cn/categories/java-script-Array-methods/Array-Methods/concat/slice/splice/" />
+            <category term="类数组对象转换数组" scheme="http://eexq.cn/categories/java-script-Array-methods/Array-Methods/concat/slice/splice/%E7%B1%BB%E6%95%B0%E7%BB%84%E5%AF%B9%E8%B1%A1%E8%BD%AC%E6%8D%A2%E6%95%B0%E7%BB%84/" />
+            <category term="indexOf" scheme="http://eexq.cn/categories/java-script-Array-methods/Array-Methods/concat/slice/splice/%E7%B1%BB%E6%95%B0%E7%BB%84%E5%AF%B9%E8%B1%A1%E8%BD%AC%E6%8D%A2%E6%95%B0%E7%BB%84/indexOf/" />
+            <category term="lastIndexOf" scheme="http://eexq.cn/categories/java-script-Array-methods/Array-Methods/concat/slice/splice/%E7%B1%BB%E6%95%B0%E7%BB%84%E5%AF%B9%E8%B1%A1%E8%BD%AC%E6%8D%A2%E6%95%B0%E7%BB%84/indexOf/lastIndexOf/" />
+            <category term="Array.of" scheme="http://eexq.cn/categories/java-script-Array-methods/Array-Methods/concat/slice/splice/%E7%B1%BB%E6%95%B0%E7%BB%84%E5%AF%B9%E8%B1%A1%E8%BD%AC%E6%8D%A2%E6%95%B0%E7%BB%84/indexOf/lastIndexOf/Array-of/" />
+            <category term="Array.from" scheme="http://eexq.cn/categories/java-script-Array-methods/Array-Methods/concat/slice/splice/%E7%B1%BB%E6%95%B0%E7%BB%84%E5%AF%B9%E8%B1%A1%E8%BD%AC%E6%8D%A2%E6%95%B0%E7%BB%84/indexOf/lastIndexOf/Array-of/Array-from/" />
+            <category term="fill填充" scheme="http://eexq.cn/categories/java-script-Array-methods/Array-Methods/concat/slice/splice/%E7%B1%BB%E6%95%B0%E7%BB%84%E5%AF%B9%E8%B1%A1%E8%BD%AC%E6%8D%A2%E6%95%B0%E7%BB%84/indexOf/lastIndexOf/Array-of/Array-from/fill%E5%A1%AB%E5%85%85/" />
+            <category term="includes" scheme="http://eexq.cn/categories/java-script-Array-methods/Array-Methods/concat/slice/splice/%E7%B1%BB%E6%95%B0%E7%BB%84%E5%AF%B9%E8%B1%A1%E8%BD%AC%E6%8D%A2%E6%95%B0%E7%BB%84/indexOf/lastIndexOf/Array-of/Array-from/fill%E5%A1%AB%E5%85%85/includes/" />
+            <category term="find" scheme="http://eexq.cn/categories/java-script-Array-methods/Array-Methods/concat/slice/splice/%E7%B1%BB%E6%95%B0%E7%BB%84%E5%AF%B9%E8%B1%A1%E8%BD%AC%E6%8D%A2%E6%95%B0%E7%BB%84/indexOf/lastIndexOf/Array-of/Array-from/fill%E5%A1%AB%E5%85%85/includes/find/" />
+            <category term="findIndex" scheme="http://eexq.cn/categories/java-script-Array-methods/Array-Methods/concat/slice/splice/%E7%B1%BB%E6%95%B0%E7%BB%84%E5%AF%B9%E8%B1%A1%E8%BD%AC%E6%8D%A2%E6%95%B0%E7%BB%84/indexOf/lastIndexOf/Array-of/Array-from/fill%E5%A1%AB%E5%85%85/includes/find/findIndex/" />
+            <category term="forEach" scheme="http://eexq.cn/categories/java-script-Array-methods/Array-Methods/concat/slice/splice/%E7%B1%BB%E6%95%B0%E7%BB%84%E5%AF%B9%E8%B1%A1%E8%BD%AC%E6%8D%A2%E6%95%B0%E7%BB%84/indexOf/lastIndexOf/Array-of/Array-from/fill%E5%A1%AB%E5%85%85/includes/find/findIndex/forEach/" />
+            <category term="map" scheme="http://eexq.cn/categories/java-script-Array-methods/Array-Methods/concat/slice/splice/%E7%B1%BB%E6%95%B0%E7%BB%84%E5%AF%B9%E8%B1%A1%E8%BD%AC%E6%8D%A2%E6%95%B0%E7%BB%84/indexOf/lastIndexOf/Array-of/Array-from/fill%E5%A1%AB%E5%85%85/includes/find/findIndex/forEach/map/" />
+            <category term="filter" scheme="http://eexq.cn/categories/java-script-Array-methods/Array-Methods/concat/slice/splice/%E7%B1%BB%E6%95%B0%E7%BB%84%E5%AF%B9%E8%B1%A1%E8%BD%AC%E6%8D%A2%E6%95%B0%E7%BB%84/indexOf/lastIndexOf/Array-of/Array-from/fill%E5%A1%AB%E5%85%85/includes/find/findIndex/forEach/map/filter/" />
             <category term="Array Methods,concat, ... ,slice,splice,类数组对象转换数组,indexOf,lastIndexOf,Array.of,Array.from,fill填充,includes,find,findIndex,forEach,map,filter" scheme="http://eexq.cn/tags/Array-Methods-concat-slice-splice-%E7%B1%BB%E6%95%B0%E7%BB%84%E5%AF%B9%E8%B1%A1%E8%BD%AC%E6%8D%A2%E6%95%B0%E7%BB%84-indexOf-lastIndexOf-Array-of-Array-from-fill%E5%A1%AB%E5%85%85-includes-find-findIndex-forEach-map-filter/" />
             <pubDate>Mon, 07 Jun 2021 11:19:48 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;concat &amp;amp;&amp;amp; ...&lt;/span&gt;&lt;/p&gt;
@@ -123,6 +154,7 @@
             <title>vue watch</title>
             <link>http://eexq.cn/2021/06/04/vue/vueWatch/</link>
             <category term="vue" scheme="http://eexq.cn/categories/vue/" />
+            <category term="vue watch" scheme="http://eexq.cn/categories/vue/vue-watch/" />
             <category term="vue watch" scheme="http://eexq.cn/tags/vue-watch/" />
             <pubDate>Fri, 04 Jun 2021 20:18:55 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;watch 基础使用&lt;/span&gt;&lt;/p&gt;
@@ -133,6 +165,7 @@
             <title>vue topic</title>
             <link>http://eexq.cn/2021/06/04/vue/vueTopic/</link>
             <category term="vue" scheme="http://eexq.cn/categories/vue/" />
+            <category term="vue题" scheme="http://eexq.cn/categories/vue/vue%E9%A2%98/" />
             <category term="vue题" scheme="http://eexq.cn/tags/vue%E9%A2%98/" />
             <pubDate>Fri, 04 Jun 2021 20:15:29 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;nextTick&lt;/span&gt;&lt;/p&gt;
@@ -143,6 +176,7 @@
             <title>vue error</title>
             <link>http://eexq.cn/2021/06/04/vue/vueError/</link>
             <category term="vue" scheme="http://eexq.cn/categories/vue/" />
+            <category term="vue router错误" scheme="http://eexq.cn/categories/vue/vue-router%E9%94%99%E8%AF%AF/" />
             <category term="vue router错误" scheme="http://eexq.cn/tags/vue-router%E9%94%99%E8%AF%AF/" />
             <pubDate>Fri, 04 Jun 2021 20:10:59 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;路由跳转时两次 push 同一地址产生的报错&lt;/span&gt;&lt;/p&gt;
@@ -153,7 +187,8 @@
             <title>vue parameter passing 2</title>
             <link>http://eexq.cn/2021/06/04/vue/vueParameterPassing2/</link>
             <category term="vue" scheme="http://eexq.cn/categories/vue/" />
-            <category term="vue ref父子传参" scheme="http://eexq.cn/tags/vue-ref%E7%88%B6%E5%AD%90%E4%BC%A0%E5%8F%82/" />
+            <category term="vue ref父子传参2" scheme="http://eexq.cn/categories/vue/vue-ref%E7%88%B6%E5%AD%90%E4%BC%A0%E5%8F%822/" />
+            <category term="vue ref父子传参2" scheme="http://eexq.cn/tags/vue-ref%E7%88%B6%E5%AD%90%E4%BC%A0%E5%8F%822/" />
             <pubDate>Fri, 04 Jun 2021 16:30:25 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;ref 可以获取当前组件 DOM 节点&lt;/span&gt;&lt;/p&gt;
 &lt;figure class=&#34;highlight javascript&#34;&gt;&lt;figcaption data-lang=&#34;javascript&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;template&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;div ref&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;div&#34;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt;hello&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;/&lt;/span&gt;div&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;/&lt;/span&gt;template&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;script&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;default&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token function&#34;&gt;mounted&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        console&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;this&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;$refs&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;div&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token comment&#34;&gt;//log 结果为 &amp;lt;div&gt;hello&amp;lt;/div&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;/&lt;/span&gt;script&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;ref 进行父传子&lt;/span&gt;&lt;/p&gt;
@@ -165,6 +200,7 @@
             <title>vue parameter passing 1</title>
             <link>http://eexq.cn/2021/06/04/vue/vueParameterPassing1/</link>
             <category term="vue" scheme="http://eexq.cn/categories/vue/" />
+            <category term="vue 父子传参1" scheme="http://eexq.cn/categories/vue/vue-%E7%88%B6%E5%AD%90%E4%BC%A0%E5%8F%821/" />
             <category term="vue 父子传参1" scheme="http://eexq.cn/tags/vue-%E7%88%B6%E5%AD%90%E4%BC%A0%E5%8F%821/" />
             <pubDate>Fri, 04 Jun 2021 15:41:42 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;父传子&lt;/span&gt;&lt;/p&gt;
@@ -176,6 +212,7 @@
             <title>vueComponent</title>
             <link>http://eexq.cn/2021/06/04/vue/vueComponent/</link>
             <category term="vue" scheme="http://eexq.cn/categories/vue/" />
+            <category term="vue组件基础" scheme="http://eexq.cn/categories/vue/vue%E7%BB%84%E4%BB%B6%E5%9F%BA%E7%A1%80/" />
             <category term="vue组件基础" scheme="http://eexq.cn/tags/vue%E7%BB%84%E4%BB%B6%E5%9F%BA%E7%A1%80/" />
             <pubDate>Fri, 04 Jun 2021 15:23:53 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;定义全局组件&lt;/span&gt;&lt;/p&gt;
@@ -187,6 +224,7 @@
             <title>promise</title>
             <link>http://eexq.cn/2021/06/04/promise/</link>
             <category term="javascript" scheme="http://eexq.cn/categories/javascript/" />
+            <category term="promise基础" scheme="http://eexq.cn/categories/javascript/promise%E5%9F%BA%E7%A1%80/" />
             <category term="promise基础" scheme="http://eexq.cn/tags/promise%E5%9F%BA%E7%A1%80/" />
             <pubDate>Fri, 04 Jun 2021 14:27:37 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;promise 基础使用&lt;/span&gt;&lt;/p&gt;
@@ -201,7 +239,12 @@
             <category term="axios" scheme="http://eexq.cn/categories/axios/" />
             <category term="vue" scheme="http://eexq.cn/categories/axios/vue/" />
             <category term="123tt" scheme="http://eexq.cn/categories/axios/vue/123tt/" />
-            <category term="axios在vue中的基础配置, axios get, axios post, axios 拦截器, axios 项目中用户登录 post get 请求" scheme="http://eexq.cn/tags/axios%E5%9C%A8vue%E4%B8%AD%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE-axios-get-axios-post-axios-%E6%8B%A6%E6%88%AA%E5%99%A8-axios-%E9%A1%B9%E7%9B%AE%E4%B8%AD%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95-post-get-%E8%AF%B7%E6%B1%82/" />
+            <category term="axios在vue中的基础配置," scheme="http://eexq.cn/categories/axios/vue/123tt/axios%E5%9C%A8vue%E4%B8%AD%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/" />
+            <category term="axios get," scheme="http://eexq.cn/categories/axios/vue/123tt/axios%E5%9C%A8vue%E4%B8%AD%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/axios-get/" />
+            <category term="axios post," scheme="http://eexq.cn/categories/axios/vue/123tt/axios%E5%9C%A8vue%E4%B8%AD%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/axios-get/axios-post/" />
+            <category term="axios 拦截器," scheme="http://eexq.cn/categories/axios/vue/123tt/axios%E5%9C%A8vue%E4%B8%AD%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/axios-get/axios-post/axios-%E6%8B%A6%E6%88%AA%E5%99%A8/" />
+            <category term="axios 项目中用户登录 post get 请求," scheme="http://eexq.cn/categories/axios/vue/123tt/axios%E5%9C%A8vue%E4%B8%AD%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/axios-get/axios-post/axios-%E6%8B%A6%E6%88%AA%E5%99%A8/axios-%E9%A1%B9%E7%9B%AE%E4%B8%AD%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95-post-get-%E8%AF%B7%E6%B1%82/" />
+            <category term="axios在vue中的基础配置, axios get, axios post, axios 拦截器, axios 项目中用户登录 post get 请求," scheme="http://eexq.cn/tags/axios%E5%9C%A8vue%E4%B8%AD%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE-axios-get-axios-post-axios-%E6%8B%A6%E6%88%AA%E5%99%A8-axios-%E9%A1%B9%E7%9B%AE%E4%B8%AD%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95-post-get-%E8%AF%B7%E6%B1%82/" />
             <pubDate>Fri, 04 Jun 2021 14:01:21 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;axios 基础配置&lt;/span&gt;&lt;/p&gt;
 &lt;figure class=&#34;highlight javascript&#34;&gt;&lt;figcaption data-lang=&#34;javascript&#34;&gt;&lt;span&gt;axios基础配置&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;// 下载 axios&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ npm install axios &lt;span class=&#34;token operator&#34;&gt;--&lt;/span&gt;save&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;// 配置 axios&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;//mian.js 中&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;import&lt;/span&gt; axios &lt;span class=&#34;token keyword&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#39;axios&#39;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 引入 axios&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;Vue&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;config&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;productionTip &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token boolean&#34;&gt;false&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 阻止启动生产消息，跟 axios 没有关系&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;axios&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;defaults&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;baseURL &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;/api&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 配合 proxy 实现跨域&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token class-name&#34;&gt;Vue&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;prototype&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;axios &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; axios&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 加入 Vue 的原型方法中&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;// 发请求时 会找到 vue.config.js 中配置的 proxy 中的 target 中的地址&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;devServer&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        proxy&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token string&#34;&gt;&#39;/api&#39;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 为所有服务器端接口起一个别名前缀，为了和 vue 脚手架中其它页面的路由地址区分&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;                target&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token template-string&#34;&gt;&lt;span class=&#34;token template-punctuation string&#34;&gt;`&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;http://localhost:3000&lt;/span&gt;&lt;span class=&#34;token template-punctuation string&#34;&gt;`&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;                changeOrigin&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 跨域&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;                pathRewrite&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;                    &lt;span class=&#34;token comment&#34;&gt;// 因为真实的服务器端地址中是不包含 /api 的，所以&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;                    &lt;span class=&#34;token string&#34;&gt;&#39;^/api&#39;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#39;&#39;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 应该将程序中的 /api 删除 (替换为空字符串)，再和 target 中的基础路径拼接起来作为发送到服务器的最终请求地址。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;                &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;axios get 基础使用&lt;/span&gt;&lt;/p&gt;
@@ -215,6 +258,7 @@
             <title>proxy</title>
             <link>http://eexq.cn/2021/06/04/proxy/</link>
             <category term="proxy" scheme="http://eexq.cn/categories/proxy/" />
+            <category term="proxy跨域基础配置" scheme="http://eexq.cn/categories/proxy/proxy%E8%B7%A8%E5%9F%9F%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/" />
             <category term="proxy跨域基础配置" scheme="http://eexq.cn/tags/proxy%E8%B7%A8%E5%9F%9F%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/" />
             <pubDate>Fri, 04 Jun 2021 13:58:22 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;proxy 跨域基础配置&lt;/span&gt;&lt;/p&gt;
@@ -225,6 +269,8 @@
             <title>vue</title>
             <link>http://eexq.cn/2021/06/04/vue/vue/</link>
             <category term="vue" scheme="http://eexq.cn/categories/vue/" />
+            <category term="vue基础" scheme="http://eexq.cn/categories/vue/vue%E5%9F%BA%E7%A1%80/" />
+            <category term="vue 项目中获取宽高" scheme="http://eexq.cn/categories/vue/vue%E5%9F%BA%E7%A1%80/vue-%E9%A1%B9%E7%9B%AE%E4%B8%AD%E8%8E%B7%E5%8F%96%E5%AE%BD%E9%AB%98/" />
             <category term="vue基础 ,vue 获取宽高" scheme="http://eexq.cn/tags/vue%E5%9F%BA%E7%A1%80-vue-%E8%8E%B7%E5%8F%96%E5%AE%BD%E9%AB%98/" />
             <pubDate>Fri, 04 Jun 2021 12:31:04 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;vue 中 class 的使用&lt;/span&gt;&lt;/p&gt;
@@ -236,6 +282,7 @@
             <title>vue directive</title>
             <link>http://eexq.cn/2021/06/04/vue/vueDirective/</link>
             <category term="vue" scheme="http://eexq.cn/categories/vue/" />
+            <category term="vue自定义指令" scheme="http://eexq.cn/categories/vue/vue%E8%87%AA%E5%AE%9A%E4%B9%89%E6%8C%87%E4%BB%A4/" />
             <category term="vue自定义指令" scheme="http://eexq.cn/tags/vue%E8%87%AA%E5%AE%9A%E4%B9%89%E6%8C%87%E4%BB%A4/" />
             <pubDate>Fri, 04 Jun 2021 10:57:02 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;&lt;/span&gt;&lt;/p&gt;
@@ -246,6 +293,7 @@
             <title>vue filter</title>
             <link>http://eexq.cn/2021/06/04/vue/vueFilter/</link>
             <category term="vue" scheme="http://eexq.cn/categories/vue/" />
+            <category term="vue过滤器" scheme="http://eexq.cn/categories/vue/vue%E8%BF%87%E6%BB%A4%E5%99%A8/" />
             <category term="vue过滤器" scheme="http://eexq.cn/tags/vue%E8%BF%87%E6%BB%A4%E5%99%A8/" />
             <pubDate>Fri, 04 Jun 2021 10:52:25 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;&lt;/span&gt;&lt;/p&gt;
@@ -256,6 +304,7 @@
             <title>vue mixin</title>
             <link>http://eexq.cn/2021/06/04/vue/vueMixin/</link>
             <category term="vue" scheme="http://eexq.cn/categories/vue/" />
+            <category term="vue混入编写" scheme="http://eexq.cn/categories/vue/vue%E6%B7%B7%E5%85%A5%E7%BC%96%E5%86%99/" />
             <category term="vue混入编写" scheme="http://eexq.cn/tags/vue%E6%B7%B7%E5%85%A5%E7%BC%96%E5%86%99/" />
             <pubDate>Fri, 04 Jun 2021 10:52:14 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;&lt;/span&gt;&lt;/p&gt;
